@@ -37,6 +37,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Image & Art
 
+- [Scematics](https://scematics.io/) - An end-to-end data annotation platform and managed labeling service for AI and computer vision.
+  - **Tags**: `AI` `Data Annotation` `Computer Vision` `Image Annotation` `Video Annotation` `LiDAR` `3D`
+  - **Pricing**: Free tier, Custom
+  - **Contact**: https://www.linkedin.com/company/scematics/
+
 - [AI Image Generator](https://www.aiimagegenerator.org) - A free AI-powered text-to-image and image-to-image art generator.
   - **Tags**: `Free` `AI` `Image` `Text-to-Image` `Image-to-Image`
   - **Pricing**: Free
